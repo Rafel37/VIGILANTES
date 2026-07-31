@@ -228,25 +228,6 @@ The dashboard provides:
 - HTML
 - Ping (ICMP)
 
----
-
-# 📸 Screenshots
-
-## Dashboard
-
-> Add a screenshot here.
-
----
-
-## Email Report
-
-> Add a screenshot here.
-
----
-
-## Maintenance Report
-
-> Add a screenshot here.
 
 ---
 
